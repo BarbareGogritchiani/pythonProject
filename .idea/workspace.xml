@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a76d3c-a854-4de2-83e1-93d295f69aaa" name="Changes" comment="" />
+    <list default="true" id="19a76d3c-a854-4de2-83e1-93d295f69aaa" name="Changes" comment="added subtract and divide" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BarbareGogritchiani"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BarbareGogritchiani/pythonProject.git",
+    "accountId": "9880ac48-69b9-42eb-8aa5-4b6eb29f4065"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2lyo5QlFFn8vWWAbhsayLtboJAh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,11 +71,32 @@
       <option name="presentableId" value="Default" />
       <updated>1726161494860</updated>
       <workItem from="1726161502089" duration="369000" />
-      <workItem from="1731340248486" duration="1043000" />
+      <workItem from="1731340248486" duration="1416000" />
     </task>
+    <task id="LOCAL-00001" summary="added subtract and divide">
+      <option name="closed" value="true" />
+      <created>1731341590747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731341590747</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added subtract and divide">
+      <option name="closed" value="true" />
+      <created>1731341654929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731341654929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added subtract and divide" />
+    <option name="LAST_COMMIT_MESSAGE" value="added subtract and divide" />
   </component>
 </project>
